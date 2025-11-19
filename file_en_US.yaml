@@ -1,1 +1,1 @@
-key1: the value of key1
+key1: {num_of_dog, plural, one{dog}  other{dogs}}
